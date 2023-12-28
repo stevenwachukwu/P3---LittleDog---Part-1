@@ -1,4 +1,5 @@
 1          Goals
+
 Organize a modular program in the C/C++
 To use an input file (p3Meow.txt) and read it line by
 To use a command-line
